@@ -1,3 +1,3 @@
-# koka clone 2021 update
+# koka clone 2021
 
-HTML and CSS test
+Sexy HTML and CSS CLONE!
